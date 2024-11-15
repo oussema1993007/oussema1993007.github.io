@@ -1,0 +1,51 @@
+#icon-footer img{
+    width: 230px;
+    height: 180px;
+}
+.navbar img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+.navbar{
+    border: 1px solid;
+    border-color: black;
+
+}
+
+#monitors{
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+
+header nav .navbar-brand{
+    font-family: cursive;
+    font-weight: 50;
+
+}
+
+header nav a{
+    font-size: larger;
+}
+body section{
+    border: 1px solid;
+    border-color: black;
+    margin: 120px
+    
+}
+
+header+h1{
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+
+section+h3{
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+
